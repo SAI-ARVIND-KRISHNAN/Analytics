@@ -1,0 +1,182 @@
+{
+  "20": {
+    "unlock_count": NaN,
+    "total_usage_seconds": 6971.0,
+    "avg_session_seconds": 410.05882352941177,
+    "app_count": 17,
+    "top_apps": {
+      "Total Usage": 3490,
+      "Instagram": 1892,
+      "RVX": 538,
+      "WhatsApp\u00a0Business": 420,
+      "Chrome": 164
+    },
+    "category_usage": {
+      "other": 4967,
+      "productivity": 112,
+      "social": 1892
+    },
+    "distraction_ratio": 0.2714101276717831,
+    "clusters": [
+      0
+    ],
+    "primary_cluster": 0
+  },
+  "24": {
+    "unlock_count": NaN,
+    "total_usage_seconds": 6971.0,
+    "avg_session_seconds": 410.05882352941177,
+    "app_count": 17,
+    "top_apps": {
+      "Total Usage": 3490,
+      "Instagram": 1892,
+      "RVX": 538,
+      "WhatsApp\u00a0Business": 420,
+      "Chrome": 164
+    },
+    "category_usage": {
+      "other": 4967,
+      "productivity": 112,
+      "social": 1892
+    },
+    "distraction_ratio": 0.2714101276717831,
+    "clusters": [
+      0
+    ],
+    "primary_cluster": 0
+  },
+  "26": {
+    "unlock_count": NaN,
+    "total_usage_seconds": 5044.0,
+    "avg_session_seconds": 296.70588235294116,
+    "app_count": 17,
+    "top_apps": {
+      "Instagram": 2805,
+      "HabitNow": 668,
+      "LinkedIn": 407,
+      "ActionDash": 341,
+      "Google Play Store": 297
+    },
+    "category_usage": {
+      "other": 2239,
+      "social": 2805
+    },
+    "distraction_ratio": 0.5561062648691515,
+    "clusters": [
+      1
+    ],
+    "primary_cluster": 1
+  },
+  "23": {
+    "unlock_count": NaN,
+    "total_usage_seconds": 5044.0,
+    "avg_session_seconds": 296.70588235294116,
+    "app_count": 17,
+    "top_apps": {
+      "Instagram": 2805,
+      "HabitNow": 668,
+      "LinkedIn": 407,
+      "ActionDash": 341,
+      "Google Play Store": 297
+    },
+    "category_usage": {
+      "other": 2239,
+      "social": 2805
+    },
+    "distraction_ratio": 0.5561062648691515,
+    "clusters": [
+      1
+    ],
+    "primary_cluster": 1
+  },
+  "21": {
+    "unlock_count": NaN,
+    "total_usage_seconds": 6971.0,
+    "avg_session_seconds": 410.05882352941177,
+    "app_count": 17,
+    "top_apps": {
+      "Total Usage": 3490,
+      "Instagram": 1892,
+      "RVX": 538,
+      "WhatsApp\u00a0Business": 420,
+      "Chrome": 164
+    },
+    "category_usage": {
+      "other": 4967,
+      "productivity": 112,
+      "social": 1892
+    },
+    "distraction_ratio": 0.2714101276717831,
+    "clusters": [
+      0
+    ],
+    "primary_cluster": 0
+  },
+  "13": {
+    "unlock_count": NaN,
+    "total_usage_seconds": 5044.0,
+    "avg_session_seconds": 296.70588235294116,
+    "app_count": 17,
+    "top_apps": {
+      "Instagram": 2805,
+      "HabitNow": 668,
+      "LinkedIn": 407,
+      "ActionDash": 341,
+      "Google Play Store": 297
+    },
+    "category_usage": {
+      "other": 2239,
+      "social": 2805
+    },
+    "distraction_ratio": 0.5561062648691515,
+    "clusters": [
+      1
+    ],
+    "primary_cluster": 1
+  },
+  "29": {
+    "unlock_count": NaN,
+    "total_usage_seconds": 5044.0,
+    "avg_session_seconds": 296.70588235294116,
+    "app_count": 17,
+    "top_apps": {
+      "Instagram": 2805,
+      "HabitNow": 668,
+      "LinkedIn": 407,
+      "ActionDash": 341,
+      "Google Play Store": 297
+    },
+    "category_usage": {
+      "other": 2239,
+      "social": 2805
+    },
+    "distraction_ratio": 0.5561062648691515,
+    "clusters": [
+      1
+    ],
+    "primary_cluster": 1
+  },
+  "27": {
+    "unlock_count": NaN,
+    "total_usage_seconds": 6971.0,
+    "avg_session_seconds": 410.05882352941177,
+    "app_count": 17,
+    "top_apps": {
+      "Total Usage": 3490,
+      "Instagram": 1892,
+      "RVX": 538,
+      "WhatsApp\u00a0Business": 420,
+      "Chrome": 164
+    },
+    "category_usage": {
+      "other": 4967,
+      "productivity": 112,
+      "social": 1892
+    },
+    "distraction_ratio": 0.2714101276717831,
+    "clusters": [
+      0
+    ],
+    "primary_cluster": 0
+  }
+}
